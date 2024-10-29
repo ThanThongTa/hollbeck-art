@@ -1,5 +1,5 @@
 {
-  "name": "next15-starter",
+  "name": "hollbeck-art",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,17 +8,17 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {
-    "next": "^15.0.0-rc.0",
-    "react": "^19.0.0-rc-f994737d14-20240522",
-    "react-dom": "^19.0.0-rc-f994737d14-20240522"
-  },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "eslint": "^9.9.1",
-    "eslint-config-next": "^15.0.0-canary.135",
-    "typescript": "^5"
+    "eslint": "^9.13.0",
+    "eslint-config-next": "^15.0.1",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "next": "^15.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }
